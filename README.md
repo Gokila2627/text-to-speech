@@ -1,1 +1,6 @@
-# text-to-speech
+     TEXT TO SPEECH
+ABOUT THE PROJECT
+      A Text-to-speech synthesizer is an application that converts text into spoken word, by analyzing and processing the text using Natural Language Processing (NLP) and then using Digital Signal Processing (DSP) technology to convert this processed text into synthesized speech representation of the text. Here, we developed a useful text-to-speech synthesizer in the form of a simple application that converts inputted text into synthesized speech and reads out to the user. The development of a text to speech synthesizer will be of great help to people with visual impairment and make making through large volume of text easier.
+
+OVERVIEW OF THE PROJECT
+      Speech synthesis can be described as artificial production of human speech. A computer system used for this purpose is called a speech synthesizer, and can be implemented in software or hardware. A text-to-speech (TTS) system converts normal language text into speech. The quality of a speech synthesizer is judged by its similarity to human voice and by its ability to be understood. An intelligible text-to-speech program allows people with visual impairments or reading disabilities to listen to written works on a home computer.
